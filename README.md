@@ -2,6 +2,10 @@
 > Application Program Interface
 > API used by medieus
 
+## Danal_JS
+
+- Payment PG company Danal's card payment script.
+
 ## Location_JS
 
 - Accessing different domains by country.
